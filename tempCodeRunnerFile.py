@@ -1,0 +1,1 @@
+self.goals.append((y,x))
